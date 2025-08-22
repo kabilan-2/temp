@@ -1,2 +1,3 @@
 name = input("Enter your name: ")
 print("Vankam, " + name + "!")
+print("any queries")
